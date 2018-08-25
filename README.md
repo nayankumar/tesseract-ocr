@@ -99,4 +99,4 @@ Package Version:
 #==============================================================================
 
 Tesseract-OCR works well in case of black and white images. It will extract all the text perfectly.  
-When it comes to colorful images it does not work well. Text extraction will imperfect.
+When it comes to colorful images it does not work well. Text extraction will be imperfect.
