@@ -1,10 +1,13 @@
 # tesseract-ocr
 Text Extraction from Black and White Images
 
-Useful Links:
+Useful Links:  
+
 	https://github.com/tesseract-ocr/tesseract/wiki
+	https://github.com/tesseract-ocr/tesseract/wiki/ImproveQuality
 	
-How it works:
+How it works:  
+
 	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/33418.pdf
 	
 	
